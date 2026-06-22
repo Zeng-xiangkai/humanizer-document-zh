@@ -13,7 +13,7 @@
 
 ### 1. 对意义、遗产和宏观趋势的不当强调 🟢
 
-**识别用词：** stands/serves as（作为）、is a testament/reminder（证明/提醒）、a vital/significant/crucial/pivotal/key role/moment（至关重要的角色/时刻）、underscores/highlights its importance/significance（强调其重要性）、reflects broader（反映更广泛的）、symbolizing its ongoing/enduring/lasting（象征其持续的）、contributing to the（有助于）、setting the stage for（为……奠定基础）、marking/shaping the（标志着/塑造着）、represents/marks a shift（代表/标志着转变）、key turning point（关键转折点）、evolving landscape（不断演变的格局）、focal point（焦点）、indelible mark（不可磨灭的印记）、deeply rooted（根深蒂固的）
+**识别用词：** 作为/充当、标志着、见证了、是……的体现/证明/提醒、极其重要的/重要的/至关重要的/核心的/关键性的作用/时刻、凸显/强调/彰显了其重要性/意义、反映了更广泛的、象征着其持续的/永恒的/持久的、为……做出贡献、为……奠定基础、标志着/塑造着、代表/标志着一个转变、关键转折点、不断演变的格局、焦点、不可磨灭的印记、深深植根于
 
 **问题：** LLM 写作通过添加关于某些方面如何代表或贡献于更广泛主题的陈述来夸大重要性。
 
@@ -123,7 +123,7 @@
 
 ### 6. 对知名度和媒体报道的不当强调 🟢
 
-**识别用词：** independent coverage（独立报道）、local/regional/national media outlets（地方/地区/全国媒体）、written by a leading expert（由顶尖专家撰写）、active social media presence（活跃的社交媒体存在）
+**识别用词：** 独立报道、地方/区域/国家媒体、由知名专家撰写、活跃的社交媒体账号
 
 **问题：** LLM 用知名度声明来轰炸读者，经常列出来源却不提供背景。
 
@@ -137,7 +137,7 @@
 
 ### 7. 模糊归因和含糊用词 🟡
 
-**识别用词：** Industry reports（行业报告）、Observers have cited（观察人士指出）、Experts argue（专家认为）、Some critics argue（一些批评者认为）、several sources/publications（多个来源/出版物，当实际引用很少时）
+**识别用词：** 行业报告显示、观察者指出、专家认为、一些批评者认为、多个来源/出版物（实际引用却很少）
 
 **问题：** LLM 将观点归因于模糊的权威，却不提供具体来源。
 
@@ -151,7 +151,7 @@
 
 ### 8. 大纲式的"挑战与未来展望"章节 🟢
 
-**识别用词：** Despite its... faces several challenges...（尽管……面临若干挑战……）、Despite these challenges（尽管面临这些挑战）、Challenges and Legacy（挑战与遗产）、Future Outlook（未来展望）
+**识别用词：** 尽管其……面临若干挑战……、尽管存在这些挑战、挑战与遗产、未来展望
 
 **问题：** 许多 LLM 生成的文章包含公式化的"挑战"章节。
 
@@ -312,7 +312,7 @@
 
 ### 20. 知识截止日期免责声明 🟢
 
-**识别用词：** as of [date]（截至[日期]）、Up to my last training update（截至我最后的训练更新）、While specific details are limited/scarce...（虽然具体细节有限/不足……）、based on available information...（根据现有信息……）
+**识别用词：** 截至 [日期]、根据我最后的训练更新、虽然具体细节有限/稀缺……、基于可用信息……
 
 **问题：** LLM 关于信息不完整的免责声明被留在文本中。
 
